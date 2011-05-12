@@ -53,4 +53,11 @@
         </postprocess>
     </symbol>
 
+   <!-- STUDIO -->
+/* !foo */
+    <symbol id="Pragma marks" font-weight="normal" font-style="normal" image="SymbolMark" indentation="0" ignoreblocks="no" show-in-comments="yes">
+        <regex>#pragma mark (.+)</regex>
+    </symbol>
+    <!-- END -->
+
 </symbols>

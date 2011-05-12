@@ -2717,7 +2717,6 @@ ddpSktErr
 deactivate
 deactivateMsg
 deactivateServer:
-dealloc
 deauthorize:
 debugRxHandler
 debugTxHandler
@@ -8939,7 +8938,6 @@ quickTimeTrack
 quietCmd
 quotes
 rDocProc
-radCtrl
 radioButProc
 raise
 raise: format:
@@ -9154,7 +9152,6 @@ relativeMoveToPoint:
 relativePath
 relativePosition
 relativeString
-release
 releaseCGLContext:
 releaseCGLPixelFormat:
 releaseDebuggerLock
@@ -9556,10 +9553,6 @@ resumeFlag
 resumeObservation
 resumeRendering
 resumeWithSuspensionID:
-retain
-retainArguments
-retainCount
-retainsRegisteredObjects
 retrieveFolderListing
 retryComponentRegistrationErr
 return
